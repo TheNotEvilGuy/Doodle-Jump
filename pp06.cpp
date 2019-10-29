@@ -321,6 +321,8 @@ int main()
 	cout << "\nFrequency of first anotherList is: " << anotherList.getFrequencyOf("first") << endl;
 	cout << "Number of Nodes in anotherList is: " << anotherList.getCurrentSize() << endl;
 	cout << "Does anotherList contain second? 1 for yes, 0 for no: " << anotherList.contains("second") << endl;
+	
+	return 0;
 }
 
 
